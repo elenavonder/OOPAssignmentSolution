@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Text;
 
 namespace CSharp.OOP.Composition
-{
+{//COMPOSITION: SIMILAR TO INHERITANCE BUT MAKING AN INSTANCE OF ONE OBJECT INTO ANOTHER
     class Widget
     {
         public Product product { get; set; } //this is null here

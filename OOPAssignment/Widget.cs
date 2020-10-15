@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace CSharp.OOP.Inheritance
-{
+{//INHERITANCE: TAKING AN OBJECT THAT ALREADY EXSISTS AND DEFINING ANOTHER BY ITS DIFFERENCES
     class WidgetI : Product
     {
         public string Size { get; set; } = "Medium";
