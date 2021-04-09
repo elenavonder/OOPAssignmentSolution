@@ -19,7 +19,7 @@ namespace OOPAssignment
                 new ServiceI() {Description = "Service on widget id 1", Price = 100, WidgetId = 1, ServiceYears = 1 },
                 new ServiceI() {Description = "service on widget id 2", Price = 200, WidgetId = 2, ServiceYears = 1 },
                 new ServiceI() {Description = "Service on Widget id 3", Price = 300, WidgetId = 3, ServiceYears = 2},
-                new Product() {Description = "Couch"}
+                new Product() {Description = "Couch", Price = 500},
             };
         }
     }
